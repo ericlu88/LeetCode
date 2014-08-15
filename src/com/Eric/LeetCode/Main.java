@@ -1,6 +1,6 @@
 package com.Eric.LeetCode;
 
-import com.Eric.LeetCode.ClimbingStairs.*;
+import com.Eric.LeetCode.ClimbingStairs.Solution;
 
 public class Main
 {
